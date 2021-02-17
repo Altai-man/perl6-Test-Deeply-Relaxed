@@ -19,7 +19,7 @@
   "support": {
     "email": "roam@ringlet.net",
     "bugtracker": "https://github.com/ppentchev/perl6-Test-Deeply-Relaxed/issues",
-    "source": "https://github.com/ppentchev/perl6-Test-Deeply-Relaxed"
+    "source": "https://github.com/ppentchev/perl6-Test-Deeply-Relaxed.git"
   },
   "production": true
 }
